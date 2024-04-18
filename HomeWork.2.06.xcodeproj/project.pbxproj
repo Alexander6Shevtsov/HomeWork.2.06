@@ -13,6 +13,7 @@
 		4273FF4A2BC9925B0012DBEA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4273FF492BC9925B0012DBEA /* Base */; };
 		4273FF4C2BC9925C0012DBEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4273FF4B2BC9925C0012DBEA /* Assets.xcassets */; };
 		4273FF4F2BC9925C0012DBEA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4273FF4E2BC9925C0012DBEA /* Base */; };
+		4273FF572BCEA67E0012DBEA /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4273FF562BCEA67E0012DBEA /* WelcomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4273FF4B2BC9925C0012DBEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4273FF4E2BC9925C0012DBEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4273FF502BC9925C0012DBEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4273FF562BCEA67E0012DBEA /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4273FF422BC9925A0012DBEA /* AppDelegate.swift */,
 				4273FF442BC9925A0012DBEA /* SceneDelegate.swift */,
 				4273FF462BC9925A0012DBEA /* LoginViewController.swift */,
+				4273FF562BCEA67E0012DBEA /* WelcomeViewController.swift */,
 				4273FF482BC9925A0012DBEA /* Main.storyboard */,
 				4273FF4B2BC9925C0012DBEA /* Assets.xcassets */,
 				4273FF4D2BC9925C0012DBEA /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4273FF472BC9925A0012DBEA /* LoginViewController.swift in Sources */,
+				4273FF572BCEA67E0012DBEA /* WelcomeViewController.swift in Sources */,
 				4273FF432BC9925A0012DBEA /* AppDelegate.swift in Sources */,
 				4273FF452BC9925A0012DBEA /* SceneDelegate.swift in Sources */,
 			);
